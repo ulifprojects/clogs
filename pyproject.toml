@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "clogs"
+name = "CLogs-Ulif"
 version = "1.0.0"
 authors = [
   { name="UlifSystems", email="ulifsystems@gmail.com" },
