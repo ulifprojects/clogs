@@ -64,7 +64,7 @@ clog.DeleteLog("C:\...")
 Install clogs with pip
 
 ```bash
-  python3 -m pip install clogs
+  python3 -m pip install CLogs-Ulif
 ```
     
 ## License
